@@ -1,3 +1,3 @@
-# [ONGOING] OsteoporosisAnalysis
+# Analysis of Vertebral Fragility Fractures (VFF)
 
-Suplementary Materials and Database
+TODO: Suplementary Materials and Database
