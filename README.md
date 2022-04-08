@@ -1,6 +1,6 @@
 # Analysis of Vertebral Fragility Fractures (VFF)
 
-All data used in the paper is available in this repository, including the sources codes for reproduction
+All data used in the paper is available in this repository, including the sources codes for reproduction.
 
 ## Patient Database (ROIS)
 We made available the ROIS in a single zip file in the following url:
