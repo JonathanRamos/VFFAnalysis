@@ -5,14 +5,14 @@
 
 ## Results (Overall)
 ### Accuracy
-![image](https://user-images.githubusercontent.com/3834596/162453131-4161aed8-cfbb-47b5-804f-4f7624442207.png)
-
-![image](https://user-images.githubusercontent.com/3834596/162453290-9a6d5d9e-0da3-4b7e-95ae-9fe71cd09c7b.png)
-
-![image](https://user-images.githubusercontent.com/3834596/162453401-5fb5c4b2-69aa-42a7-bcb9-7f35b3f8867c.png)
-
-![image](https://user-images.githubusercontent.com/3834596/162453489-17835546-af96-434c-b739-507e510fd0b8.png)
-
-![image](https://user-images.githubusercontent.com/3834596/162453563-35554e73-4f01-4a4a-ac86-26c026a7dbf4.png)
-
-![image](https://user-images.githubusercontent.com/3834596/162453628-1e749451-7bb0-4b53-b85b-dfa28215b370.png)
+![image](https://user-images.githubusercontent.com/3834596/162454097-e052965e-7b70-406c-b374-1d655a278c94.png)
+### Precision
+![image](https://user-images.githubusercontent.com/3834596/162454221-de128b9b-fbe8-4003-b2b8-bf9ff0f5841c.png)
+### Sensitivity
+![image](https://user-images.githubusercontent.com/3834596/162454335-62acbc32-fccb-45b4-981b-38ddfa3c47a0.png)
+### Specificity
+![image](https://user-images.githubusercontent.com/3834596/162454451-14a2c8dd-7b1c-42c3-8470-613211d8966b.png)
+### FMeasure or F1-Score
+![image](https://user-images.githubusercontent.com/3834596/162454552-a3d98f04-db8c-484a-96f5-ee2e499f9c46.png)
+### Area Under the Curve (AUC)
+![image](https://user-images.githubusercontent.com/3834596/162454623-da27f68a-6dc9-4ca1-84b6-78f4712050c2.png)
