@@ -5,6 +5,7 @@
 
 ## Results (Overall)
 We show the overall results for every method we tested as follows.
+We highlighted in **bold** the methods that we reported in the paper.
 ### Accuracy
 ![image](https://user-images.githubusercontent.com/3834596/162454097-e052965e-7b70-406c-b374-1d655a278c94.png)
 ### Precision
