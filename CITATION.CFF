@@ -1,12 +1,25 @@
 cff-version: 1.2.0
 message: "If you use this repo, please cite it as below."
 authors:
-- family-names: "Ramos"
+- family-names: "da Silva Ramos"
   given-names: "Jonathan"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Ramos"
-  given-names: "Jonathan"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "J. de Aguiar"
+  given-names: "Erikson"
+- family-names: "V. Belizario"
+  given-names: "Ivar"
+- family-names: "V. L. Costa"
+  given-names: "Márcus"
+- family-names: "G. Maciel"
+  given-names: "Jamilly"
+- family-names: "T. Cazzolato"
+  given-names: "Mirela"
+- family-names: "Traina"
+  given-names: "CAetano Jr."
+- family-names: "H. Nogueira-Barbosa"
+  given-names: "Marcello"
+- family-names: "J. M. Traina"
+  given-names: "Agma"
+  
 title: "Identifying lumbar fragility fractures: a comparison of traditional machine learning and Deep Learning"
 version: 1.0.0
 doi: 10.5281/zenodo.6415420
