@@ -1,7 +1,7 @@
 # Analysis of Vertebral Fragility Fractures (VFF)
 
 ## Patient Database (ROIS)
-10.5281/zenodo.6415420
+https://doi.org/10.5281/zenodo.6415420
 
 ## Results (Overall)
 We show the overall results for every method we tested as follows.
