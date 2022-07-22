@@ -2,6 +2,9 @@
 
 All data used in the paper is available in this repository, including the sources codes for reproduction.
 
+# Paper
+https://doi.org/10.1109/CBMS55023.2022.00021
+
 ## Patient Database (ROIS)
 We made available the ROIS in a single zip file in the following url:
 https://doi.org/10.5281/zenodo.6415420
